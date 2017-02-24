@@ -10,4 +10,5 @@
 * Test your memory
 * Image magnifier
 * Task manager
-Inspired by a Coursera course on Python offered by Rice University. 
+  
+  Inspired by a Coursera course on Python offered by Rice University. 
