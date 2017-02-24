@@ -9,6 +9,5 @@
 * Stop watch
 * Test your memory
 * Image magnifier
-* Task manager
-  
+* Task manager  
   Inspired by a Coursera course on Python offered by Rice University. 
